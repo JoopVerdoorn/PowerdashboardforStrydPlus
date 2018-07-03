@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="3" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="4" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="8" pc="268435479" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="9" pc="268435483" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="162" pc="268435521" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="163" pc="268435525" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="165" pc="268435543" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="166" pc="268435562" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="167" pc="268435586" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="168" pc="268435610" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="169" pc="268435634" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="170" pc="268435658" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="171" pc="268435682" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="172" pc="268435706" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="173" pc="268435730" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="174" pc="268435754" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="175" pc="268435778" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="176" pc="268435802" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="178" pc="268435826" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="179" pc="268435867" symbol="initialize"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="185" pc="268435884" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="187" pc="268435888" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="188" pc="268435899" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="191" pc="268435922" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="192" pc="268435953" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="193" pc="268435966" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="194" pc="268435977" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="195" pc="268436014" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="196" pc="268436060" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="197" pc="268436085" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="198" pc="268436104" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="199" pc="268436141" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="200" pc="268436184" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="201" pc="268436201" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="202" pc="268436211" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="203" pc="268436228" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="204" pc="268436247" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="205" pc="268436264" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="207" pc="268436292" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="208" pc="268436308" symbol="compute"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="213" pc="268436331" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="214" pc="268436335" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="216" pc="268436354" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="217" pc="268436379" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="218" pc="268436425" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="219" pc="268436471" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="222" pc="268436517" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="223" pc="268436536" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="224" pc="268436577" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="225" pc="268436593" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="226" pc="268436609" symbol="onTimerLap"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="230" pc="268436626" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="231" pc="268436630" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="232" pc="268436642" symbol="onTimerStart"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="237" pc="268436653" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="238" pc="268436657" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="239" pc="268436669" symbol="onTimerStop"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="244" pc="268436680" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="245" pc="268436684" symbol="onTimerResume"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="250" pc="268436695" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="251" pc="268436699" symbol="onTimerPause"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="256" pc="268436710" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="257" pc="268436714" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="258" pc="268436733" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="259" pc="268436736" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="260" pc="268436773" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="262" pc="268436795" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="263" pc="268436816" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="265" pc="268436836" symbol="startStopPushed"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="270" pc="268436874" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="271" pc="268436878" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="272" pc="268436891" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="273" pc="268436904" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="274" pc="268436917" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="275" pc="268436930" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="276" pc="268436943" symbol="onTimerReset"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="282" pc="268436957" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="283" pc="268436961" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="284" pc="268436980" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="285" pc="268436980" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="286" pc="268436980" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="287" pc="268436980" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="288" pc="268436980" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="290" pc="268436980" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="291" pc="268436994" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="292" pc="268437010" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="293" pc="268437026" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="294" pc="268437042" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="296" pc="268437061" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="297" pc="268437077" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="298" pc="268437093" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="299" pc="268437109" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="303" pc="268437125" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="304" pc="268437153" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="307" pc="268437185" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="308" pc="268437199" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="310" pc="268437215" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="312" pc="268437228" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="313" pc="268437242" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="315" pc="268437258" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="317" pc="268437271" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="318" pc="268437326" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="319" pc="268437345" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="322" pc="268437400" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="323" pc="268437407" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="324" pc="268437420" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="328" pc="268437442" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="329" pc="268437449" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="330" pc="268437462" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="334" pc="268437484" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="335" pc="268437491" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="336" pc="268437504" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="340" pc="268437526" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="341" pc="268437533" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="343" pc="268437540" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="344" pc="268437553" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="345" pc="268437563" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="349" pc="268437585" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="350" pc="268437592" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="351" pc="268437599" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="352" pc="268437624" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="354" pc="268437634" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="355" pc="268437671" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="359" pc="268437693" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="360" pc="268437737" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="361" pc="268437763" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="362" pc="268437807" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="363" pc="268437851" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="364" pc="268437894" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="365" pc="268437938" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="366" pc="268437992" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="367" pc="268438024" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="368" pc="268438056" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="369" pc="268438110" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="370" pc="268438142" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="372" pc="268438174" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="373" pc="268438181" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="374" pc="268438188" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="375" pc="268438195" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="376" pc="268438202" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="377" pc="268438209" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="378" pc="268438216" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="379" pc="268438245" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="381" pc="268438258" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="382" pc="268438269" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="384" pc="268438280" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="385" pc="268438293" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="387" pc="268438312" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="389" pc="268438325" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="390" pc="268438341" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="391" pc="268438357" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="392" pc="268438373" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="393" pc="268438389" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="394" pc="268438405" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="395" pc="268438421" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="396" pc="268438437" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="397" pc="268438453" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="398" pc="268438469" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="399" pc="268438485" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="400" pc="268438501" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="401" pc="268438517" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="402" pc="268438533" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="403" pc="268438549" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="404" pc="268438565" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="405" pc="268438581" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="406" pc="268438597" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="407" pc="268438613" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="408" pc="268438629" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="409" pc="268438645" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="410" pc="268438661" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="411" pc="268438677" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="412" pc="268438693" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="413" pc="268438709" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="414" pc="268438725" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="415" pc="268438741" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="416" pc="268438757" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="417" pc="268438773" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="418" pc="268438789" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="419" pc="268438823" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="420" pc="268438875" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="421" pc="268438972" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="422" pc="268439159" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="427" pc="268439442" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="428" pc="268439449" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="429" pc="268439456" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="430" pc="268439463" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="431" pc="268439470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="432" pc="268439477" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="433" pc="268439484" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="434" pc="268439497" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="436" pc="268439510" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="437" pc="268439521" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="439" pc="268439532" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="440" pc="268439545" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="442" pc="268439564" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="444" pc="268439577" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="445" pc="268439593" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="446" pc="268439609" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="447" pc="268439625" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="448" pc="268439641" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="449" pc="268439657" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="450" pc="268439673" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="451" pc="268439689" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="452" pc="268439705" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="453" pc="268439721" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="454" pc="268439737" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="455" pc="268439753" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="456" pc="268439769" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="457" pc="268439785" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="458" pc="268439801" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="459" pc="268439817" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="460" pc="268439833" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="461" pc="268439849" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="462" pc="268439865" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="463" pc="268439881" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="464" pc="268439897" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="465" pc="268439913" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="466" pc="268439929" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="467" pc="268439945" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="468" pc="268439961" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="469" pc="268439977" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="470" pc="268439993" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="471" pc="268440009" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="472" pc="268440025" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="473" pc="268440041" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="474" pc="268440075" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="475" pc="268440127" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="476" pc="268440224" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="477" pc="268440411" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="481" pc="268440694" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="482" pc="268440776" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="483" pc="268440808" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="484" pc="268440840" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="485" pc="268440872" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="486" pc="268440904" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="488" pc="268440936" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="489" pc="268440953" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="490" pc="268440993" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="491" pc="268441010" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="492" pc="268441023" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="493" pc="268441040" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="494" pc="268441053" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="495" pc="268441070" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="496" pc="268441083" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="497" pc="268441100" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="498" pc="268441113" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="499" pc="268441130" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="503" pc="268441143" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="504" pc="268441172" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="505" pc="268441201" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="506" pc="268441230" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="507" pc="268441259" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="508" pc="268441288" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="509" pc="268441317" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="510" pc="268441330" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="511" pc="268441343" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="512" pc="268441356" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="513" pc="268441369" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="514" pc="268441382" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="516" pc="268441395" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="517" pc="268441424" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="518" pc="268441453" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="519" pc="268441466" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="523" pc="268441479" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="527" pc="268441579" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="529" pc="268441610" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="530" pc="268441650" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="531" pc="268441672" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="532" pc="268441692" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="533" pc="268441718" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="539" pc="268441740" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="540" pc="268441750" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="541" pc="268441766" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="542" pc="268441782" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="543" pc="268441798" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="544" pc="268441814" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="545" pc="268441830" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="548" pc="268441837" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="549" pc="268441850" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="550" pc="268441860" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="551" pc="268441868" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="552" pc="268441884" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="553" pc="268441894" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="554" pc="268441902" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="555" pc="268441918" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="556" pc="268441928" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="557" pc="268441936" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="558" pc="268441952" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="559" pc="268441962" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="560" pc="268441970" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="561" pc="268441986" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="562" pc="268441996" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="563" pc="268442004" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="564" pc="268442020" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="565" pc="268442030" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="566" pc="268442038" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="567" pc="268442054" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="569" pc="268442064" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="570" pc="268442080" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="572" pc="268442087" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="575" pc="268442094" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="576" pc="268442107" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="577" pc="268442111" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="578" pc="268442119" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="579" pc="268442138" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="580" pc="268442146" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="581" pc="268442165" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="582" pc="268442173" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="583" pc="268442192" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="584" pc="268442200" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="585" pc="268442219" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="586" pc="268442227" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="587" pc="268442246" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="588" pc="268442254" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="590" pc="268442273" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="592" pc="268442289" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="595" pc="268442302" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="596" pc="268442315" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="597" pc="268442319" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="598" pc="268442327" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="599" pc="268442346" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="600" pc="268442354" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="601" pc="268442373" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="602" pc="268442381" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="603" pc="268442400" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="604" pc="268442408" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="605" pc="268442427" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="606" pc="268442435" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="607" pc="268442454" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="608" pc="268442462" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="610" pc="268442481" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="612" pc="268442497" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="615" pc="268442510" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="616" pc="268442523" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="617" pc="268442527" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="618" pc="268442535" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="619" pc="268442554" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="620" pc="268442562" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="621" pc="268442581" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="622" pc="268442589" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="623" pc="268442608" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="624" pc="268442616" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="625" pc="268442635" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="626" pc="268442643" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="627" pc="268442662" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="628" pc="268442670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="630" pc="268442689" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="632" pc="268442705" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="636" pc="268442718" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="637" pc="268442732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="638" pc="268442760" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="645" pc="268442776" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="647" pc="268442790" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="649" pc="268442818" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="650" pc="268442832" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="651" pc="268442902" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="652" pc="268442972" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="654" pc="268443042" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="655" pc="268443112" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="656" pc="268443182" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="657" pc="268443252" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="658" pc="268443319" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="659" pc="268443389" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="665" pc="268443459" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="666" pc="268443466" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="667" pc="268443473" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="668" pc="268443480" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="670" pc="268443487" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="671" pc="268443494" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="672" pc="268443501" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="673" pc="268443508" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="675" pc="268443515" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="676" pc="268443522" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="677" pc="268443529" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="678" pc="268443536" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="680" pc="268443543" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="681" pc="268443550" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="682" pc="268443557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="683" pc="268443564" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="686" pc="268443571" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="687" pc="268443611" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="688" pc="268443628" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="689" pc="268443660" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="692" pc="268443692" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="693" pc="268443732" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="694" pc="268443769" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="702" pc="268443806" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="703" pc="268443822" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="706" pc="268443850" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="707" pc="268443857" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="708" pc="268443864" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="709" pc="268443871" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="711" pc="268443878" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="712" pc="268443885" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="713" pc="268443892" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="714" pc="268443899" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="716" pc="268443906" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="717" pc="268443913" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="718" pc="268443920" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="719" pc="268443927" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="721" pc="268443934" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="722" pc="268443941" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="723" pc="268443948" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="724" pc="268443955" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="726" pc="268443962" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="731" pc="268443969" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="732" pc="268443985" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="733" pc="268444013" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="736" pc="268444033" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="737" pc="268444061" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="738" pc="268444116" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="741" pc="268444168" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="742" pc="268444175" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="743" pc="268444182" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="744" pc="268444189" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="745" pc="268444206" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="746" pc="268444210" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="747" pc="268444217" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="748" pc="268444224" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="749" pc="268444237" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="750" pc="268444254" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="751" pc="268444258" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="752" pc="268444265" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="753" pc="268444272" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="754" pc="268444279" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="755" pc="268444296" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="756" pc="268444300" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="757" pc="268444307" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="758" pc="268444317" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="759" pc="268444334" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="760" pc="268444338" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="761" pc="268444345" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="762" pc="268444355" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="763" pc="268444372" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="764" pc="268444376" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="765" pc="268444383" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="766" pc="268444393" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="767" pc="268444410" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="768" pc="268444414" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="769" pc="268444421" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="770" pc="268444431" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="771" pc="268444448" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="772" pc="268444452" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="773" pc="268444459" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="774" pc="268444469" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="775" pc="268444486" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="776" pc="268444496" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="777" pc="268444503" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="778" pc="268444513" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="779" pc="268444530" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="780" pc="268444540" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="781" pc="268444547" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="782" pc="268444557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="783" pc="268444574" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="784" pc="268444578" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="785" pc="268444585" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="789" pc="268444595" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="790" pc="268444623" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="792" pc="268444643" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="793" pc="268444671" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="794" pc="268444693" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="795" pc="268444759" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="796" pc="268444781" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="797" pc="268444847" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="798" pc="268444869" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="799" pc="268444935" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="800" pc="268444957" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="802" pc="268445039" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="805" pc="268445088" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="806" pc="268445095" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="807" pc="268445102" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="808" pc="268445109" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="809" pc="268445126" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="810" pc="268445130" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="811" pc="268445137" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="812" pc="268445144" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="813" pc="268445157" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="814" pc="268445174" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="815" pc="268445178" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="816" pc="268445185" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="817" pc="268445192" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="818" pc="268445205" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="819" pc="268445222" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="820" pc="268445226" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="821" pc="268445233" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="822" pc="268445240" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="823" pc="268445253" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="824" pc="268445270" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="825" pc="268445274" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="826" pc="268445281" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="827" pc="268445291" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="828" pc="268445308" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="829" pc="268445312" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="830" pc="268445319" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="831" pc="268445329" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="832" pc="268445346" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="833" pc="268445350" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="834" pc="268445357" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="835" pc="268445367" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="836" pc="268445384" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="837" pc="268445388" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="838" pc="268445395" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="839" pc="268445405" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="840" pc="268445422" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="841" pc="268445426" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="842" pc="268445433" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="843" pc="268445443" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="844" pc="268445460" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="845" pc="268445464" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="846" pc="268445471" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="847" pc="268445481" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="848" pc="268445498" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="849" pc="268445502" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="850" pc="268445509" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="851" pc="268445519" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="852" pc="268445536" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="853" pc="268445540" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="854" pc="268445547" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="855" pc="268445557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="856" pc="268445574" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="857" pc="268445578" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="858" pc="268445585" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="859" pc="268445595" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="860" pc="268445612" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="861" pc="268445616" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="862" pc="268445623" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="863" pc="268445633" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="864" pc="268445650" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="865" pc="268445654" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="866" pc="268445661" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="867" pc="268445671" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="868" pc="268445688" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="869" pc="268445692" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="870" pc="268445699" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="871" pc="268445709" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="872" pc="268445726" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="873" pc="268445730" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="874" pc="268445737" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="878" pc="268445747" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="879" pc="268445775" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="881" pc="268445795" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="882" pc="268445823" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="883" pc="268445845" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="884" pc="268445911" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="885" pc="268445933" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="886" pc="268445999" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="887" pc="268446021" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="889" pc="268446087" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="893" pc="268446136" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="894" pc="268446143" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="895" pc="268446150" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="896" pc="268446157" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="897" pc="268446174" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="898" pc="268446178" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="899" pc="268446185" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="900" pc="268446192" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="901" pc="268446205" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="902" pc="268446222" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="903" pc="268446226" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="904" pc="268446233" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="905" pc="268446240" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="906" pc="268446253" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="907" pc="268446270" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="908" pc="268446274" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="909" pc="268446281" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="910" pc="268446288" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="911" pc="268446301" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="912" pc="268446318" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="913" pc="268446322" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="914" pc="268446329" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="915" pc="268446339" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="916" pc="268446356" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="917" pc="268446360" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="918" pc="268446367" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="919" pc="268446377" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="920" pc="268446394" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="921" pc="268446398" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="922" pc="268446405" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="923" pc="268446415" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="924" pc="268446432" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="925" pc="268446436" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="926" pc="268446443" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="927" pc="268446453" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="928" pc="268446470" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="929" pc="268446474" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="930" pc="268446481" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="931" pc="268446491" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="932" pc="268446508" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="933" pc="268446512" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="934" pc="268446519" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="935" pc="268446529" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="936" pc="268446546" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="937" pc="268446550" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="938" pc="268446557" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="939" pc="268446567" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="940" pc="268446584" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="941" pc="268446588" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="942" pc="268446595" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="943" pc="268446605" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="944" pc="268446622" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="945" pc="268446626" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="946" pc="268446633" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="947" pc="268446643" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="948" pc="268446660" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="949" pc="268446664" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="950" pc="268446671" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="951" pc="268446681" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="952" pc="268446698" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="953" pc="268446702" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="954" pc="268446709" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="955" pc="268446719" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="956" pc="268446736" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="957" pc="268446740" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="958" pc="268446747" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="959" pc="268446757" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="960" pc="268446774" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="961" pc="268446778" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="962" pc="268446785" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="966" pc="268446795" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="967" pc="268446823" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="969" pc="268446843" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="970" pc="268446871" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="971" pc="268446893" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="972" pc="268446959" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="973" pc="268446981" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="974" pc="268447047" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="975" pc="268447069" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="977" pc="268447135" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="983" pc="268447185" symbol="fmtPace"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="984" pc="268447189" symbol="fmtPace"/>
+<entry filename="C:\\Users\\Joop\\eclipse-workspace\\Powerdashboard for Stryd plus\\.\\source\\PowerdashboardforStryd-round-240x240.mc" lineNum="985" pc="268447211" symbol="fmtPace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="159" symbol="lShowDemo"/>
+<entry field="true" id="82" symbol="uBacklight"/>
+<entry field="true" id="8389671" symbol="screenWidth"/>
+<entry id="8388987" method="true" symbol="vibrate"/>
+<entry field="true" id="156" symbol="lAEFactor"/>
+<entry field="true" id="78" symbol="Pace30"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="77" symbol="Pace29"/>
+<entry field="true" id="76" symbol="Pace28"/>
+<entry field="true" id="75" symbol="Pace27"/>
+<entry field="true" id="74" symbol="Pace26"/>
+<entry field="true" id="73" symbol="Pace25"/>
+<entry field="true" id="72" symbol="Pace24"/>
+<entry field="true" id="71" symbol="Pace23"/>
+<entry field="true" id="70" symbol="Pace22"/>
+<entry field="true" id="69" symbol="Pace21"/>
+<entry field="true" id="68" symbol="Pace20"/>
+<entry field="true" id="163" symbol="lUpperRightMetric"/>
+<entry field="true" id="67" symbol="Pace19"/>
+<entry field="true" id="66" symbol="Pace18"/>
+<entry field="true" id="65" symbol="Pace17"/>
+<entry field="true" id="64" symbol="Pace16"/>
+<entry field="true" id="63" symbol="Pace15"/>
+<entry field="true" id="62" symbol="Pace14"/>
+<entry field="true" id="61" symbol="Pace13"/>
+<entry field="true" id="60" symbol="Pace12"/>
+<entry field="true" id="59" symbol="Pace11"/>
+<entry field="true" id="58" symbol="Pace10"/>
+<entry field="true" id="130" symbol="MyNumberTitle"/>
+<entry field="true" id="126" symbol="lAvgPwr30bottom"/>
+<entry id="8389748" method="true" symbol="onTimerStop"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="105" symbol="mLastLapTimerTime"/>
+<entry field="true" id="57" symbol="Pace9"/>
+<entry field="true" id="56" symbol="Pace8"/>
+<entry field="true" id="55" symbol="Pace7"/>
+<entry field="true" id="54" symbol="Pace6"/>
+<entry field="true" id="53" symbol="Pace5"/>
+<entry field="true" id="52" symbol="Pace4"/>
+<entry field="true" id="51" symbol="Pace3"/>
+<entry field="true" id="50" symbol="Pace2"/>
+<entry field="true" id="49" symbol="Pace1"/>
+<entry field="true" id="8389673" symbol="isTouchScreen"/>
+<entry field="true" id="114" symbol="mEH"/>
+<entry field="true" id="110" symbol="mPowerTime"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="94" symbol="mTimerRunning"/>
+<entry field="true" id="8389138" symbol="label"/>
+<entry field="true" id="127" symbol="lBlackBackground"/>
+<entry field="true" id="128" symbol="MyNumberError"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="153" symbol="lAEI30"/>
+<entry field="true" id="154" symbol="lLPower"/>
+<entry field="true" id="88" symbol="vibrateseconds"/>
+<entry field="true" id="132" symbol="lAEI20"/>
+<entry field="true" id="15" symbol="unitP"/>
+<entry field="true" id="81" symbol="uBlackBackground"/>
+<entry field="true" id="152" symbol="lAEI10"/>
+<entry field="true" id="11" symbol="mySettings"/>
+<entry field="true" id="111" symbol="mCurrentHeartrate"/>
+<entry field="true" id="149" symbol="lLEIndex"/>
+<entry field="true" id="8389401" symbol="is24Hour"/>
+<entry field="true" id="147" symbol="lBottomLeftMetric"/>
+<entry field="true" id="27" symbol="Power9"/>
+<entry field="true" id="26" symbol="Power8"/>
+<entry field="true" id="25" symbol="Power7"/>
+<entry field="true" id="24" symbol="Power6"/>
+<entry field="true" id="23" symbol="Power5"/>
+<entry field="true" id="22" symbol="Power4"/>
+<entry field="true" id="21" symbol="Power3"/>
+<entry field="true" id="20" symbol="Power2"/>
+<entry field="true" id="19" symbol="Power1"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="9" object="true" symbol="PowerdashboardforStrydplusApp"/>
+<entry field="true" id="84" symbol="uUpperRightMetric"/>
+<entry field="true" id="107" symbol="mElapsedPower"/>
+<entry field="true" id="16" symbol="uNoAlerts"/>
+<entry field="true" id="83" symbol="uPowerAveraging"/>
+<entry id="8389752" method="true" symbol="onTimerReset"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="97" symbol="mLastLapPowerMarker"/>
+<entry field="true" id="140" symbol="lAvgPwr30"/>
+<entry field="true" id="18" symbol="uRequiredPower"/>
+<entry field="true" id="141" symbol="AppName"/>
+<entry field="true" id="92" symbol="mfillLLColour"/>
+<entry field="true" id="157" symbol="lAvgPwr20"/>
+<entry field="true" id="96" symbol="mLaps"/>
+<entry field="true" id="133" symbol="lAvgPwr10"/>
+<entry field="true" id="12" symbol="watchType"/>
+<entry field="true" id="95" symbol="mStartStopPushed"/>
+<entry id="116" method="true" symbol="startStopPushed"/>
+<entry field="true" id="150" symbol="lPowerAveraging"/>
+<entry field="true" id="101" symbol="mLastLapStoppedPowerMarker"/>
+<entry field="true" id="134" symbol="lPace"/>
+<entry field="true" id="161" symbol="lHR"/>
+<entry id="117" method="true" symbol="fmtPace"/>
+<entry field="true" id="8389672" symbol="screenHeight"/>
+<entry field="true" id="125" symbol="lPowerZones"/>
+<entry field="true" id="120" symbol="LauncherIcon"/>
+<entry field="true" id="106" symbol="mCurrentPower"/>
+<entry field="true" id="48" symbol="Power30"/>
+<entry field="true" id="85" symbol="uBottomLeftMetric"/>
+<entry field="true" id="47" symbol="Power29"/>
+<entry field="true" id="46" symbol="Power28"/>
+<entry field="true" id="45" symbol="Power27"/>
+<entry field="true" id="44" symbol="Power26"/>
+<entry field="true" id="43" symbol="Power25"/>
+<entry field="true" id="42" symbol="Power24"/>
+<entry field="true" id="41" symbol="Power23"/>
+<entry field="true" id="40" symbol="Power22"/>
+<entry field="true" id="39" symbol="Power21"/>
+<entry field="true" id="38" symbol="Power20"/>
+<entry field="true" id="37" symbol="Power19"/>
+<entry field="true" id="36" symbol="Power18"/>
+<entry field="true" id="35" symbol="Power17"/>
+<entry field="true" id="34" symbol="Power16"/>
+<entry field="true" id="33" symbol="Power15"/>
+<entry field="true" id="32" symbol="Power14"/>
+<entry field="true" id="31" symbol="Power13"/>
+<entry field="true" id="30" symbol="Power12"/>
+<entry field="true" id="29" symbol="Power11"/>
+<entry field="true" id="28" symbol="Power10"/>
+<entry field="true" id="123" symbol="Garmin4"/>
+<entry field="true" id="122" symbol="Garmin3"/>
+<entry field="true" id="121" symbol="Garmin2"/>
+<entry field="true" id="100" symbol="mLastLapStoppedTimeMarker"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry field="true" id="148" symbol="lBottomRightMetric"/>
+<entry id="8389137" method="true" symbol="compute"/>
+<entry field="true" id="13" symbol="numberis24Hour"/>
+<entry field="true" id="162" symbol="lPowerzone"/>
+<entry field="true" id="8389670" symbol="screenShape"/>
+<entry field="true" id="17" symbol="uPowerZones"/>
+<entry id="8389747" method="true" symbol="onTimerStart"/>
+<entry field="true" id="103" symbol="mLastLapDistMarker"/>
+<entry field="true" id="146" symbol="lLLPower"/>
+<entry field="true" id="98" symbol="mLastLapHeartrateMarker"/>
+<entry id="10" object="true" symbol="DatarunView"/>
+<entry field="true" id="79" symbol="umyNumber"/>
+<entry field="true" id="102" symbol="mLastLapStoppedHeartrateMarker"/>
+<entry field="true" id="160" symbol="lBacklight"/>
+<entry field="true" id="86" symbol="uBottomRightMetric"/>
+<entry field="true" id="14" symbol="numberisTouchScreen"/>
+<entry field="true" id="139" symbol="lPace3sec"/>
+<entry field="true" id="143" symbol="AppVersion"/>
+<entry field="true" id="89" symbol="DisplayPower"/>
+<entry id="8389750" method="true" symbol="onTimerResume"/>
+<entry field="true" id="104" symbol="mLastLapElapsedDistance"/>
+<entry field="true" id="87" symbol="uWarningFreq"/>
+<entry field="true" id="109" symbol="mLastLapElapsedPower"/>
+<entry id="119" module="true" symbol="Layouts"/>
+<entry field="true" id="8389402" symbol="distanceUnits"/>
+<entry field="true" id="108" symbol="mElapsedHeartrate"/>
+<entry field="true" id="158" symbol="lLLEIndex"/>
+<entry field="true" id="112" symbol="mLastLapElapsedHeartrate"/>
+<entry field="true" id="91" symbol="mfillAColour"/>
+<entry field="true" id="155" symbol="lLEFactor"/>
+<entry id="8389749" method="true" symbol="onTimerPause"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="145" symbol="lAPower"/>
+<entry field="true" id="135" symbol="lAvgPwrNone"/>
+<entry field="true" id="93" symbol="mfillLColour"/>
+<entry field="true" id="137" symbol="lRequiredPower"/>
+<entry id="118" module="true" symbol="Menus"/>
+<entry field="true" id="113" symbol="mHeartrateTime"/>
+<entry field="true" id="99" symbol="mLastLapTimeMarker"/>
+<entry id="8389751" method="true" symbol="onTimerLap"/>
+<entry field="true" id="131" symbol="lAEIndex"/>
+<entry field="true" id="144" symbol="lAvgPwr5"/>
+<entry field="true" id="142" symbol="lAvgPwr3"/>
+<entry field="true" id="124" symbol="lWarningFreq"/>
+<entry field="true" id="115" symbol="mLLHRM"/>
+<entry field="true" id="90" symbol="mCurrentPowerZone"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="80" symbol="uShowDemo"/>
+<entry field="true" id="151" symbol="lLLEFactor"/>
+<entry field="true" id="138" symbol="lAEI5"/>
+<entry field="true" id="136" symbol="lAEI3"/>
+<entry field="true" id="129" symbol="lAEI0"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435883" name="mApp" stackId="1" startPc="268435525"/>
+<entry endPc="268436208" name="mElapsedHeartrate" stackId="5" startPc="268436201"/>
+<entry endPc="268436327" name="mLapElapsedHeartrate" stackId="6" startPc="268435977"/>
+<entry endPc="268436327" name="mLapElapsedPower" stackId="4" startPc="268435977"/>
+<entry endPc="268436330" name="mLapElapsedDistance" stackId="3" startPc="268435888"/>
+<entry endPc="268436330" name="mElapsedDistance" stackId="2" startPc="268435888"/>
+<entry endPc="268436331" name="info" stackId="1" startPc="268435884"/>
+<entry endPc="268436625" name="info" stackId="1" startPc="268436335"/>
+<entry endPc="268436873" name="doublePressTimeMs" stackId="2" startPc="268436714"/>
+<entry endPc="268436873" name="info" stackId="1" startPc="268436714"/>
+<entry endPc="268447184" name="zero" stackId="98" startPc="268443459"/>
+<entry endPc="268447184" name="ytbr" stackId="97" startPc="268443459"/>
+<entry endPc="268447184" name="xfur" stackId="68" startPc="268443459"/>
+<entry endPc="268447184" name="ytbl" stackId="93" startPc="268443459"/>
+<entry endPc="268447184" name="xful" stackId="64" startPc="268443459"/>
+<entry endPc="268447184" name="fieldValue" stackId="99" startPc="268443459"/>
+<entry endPc="268447184" name="xfbr" stackId="76" startPc="268443459"/>
+<entry endPc="268447184" name="fieldLabel" stackId="100" startPc="268443459"/>
+<entry endPc="268447184" name="xfbl" stackId="72" startPc="268443459"/>
+<entry endPc="268447184" name="xtur" stackId="88" startPc="268443459"/>
+<entry endPc="268447184" name="yfur" stackId="69" startPc="268443459"/>
+<entry endPc="268447184" name="hfur" stackId="71" startPc="268443459"/>
+<entry endPc="268447184" name="xtul" stackId="84" startPc="268443459"/>
+<entry endPc="268447184" name="yful" stackId="65" startPc="268443459"/>
+<entry endPc="268447184" name="hful" stackId="67" startPc="268443459"/>
+<entry endPc="268447184" name="yur" stackId="87" startPc="268443459"/>
+<entry endPc="268447184" name="fieldformat" stackId="101" startPc="268443459"/>
+<entry endPc="268447184" name="xtbr" stackId="96" startPc="268443459"/>
+<entry endPc="268447184" name="wfur" stackId="70" startPc="268443459"/>
+<entry endPc="268447184" name="yul" stackId="83" startPc="268443459"/>
+<entry endPc="268447184" name="yfbr" stackId="77" startPc="268443459"/>
+<entry endPc="268447184" name="hfbr" stackId="79" startPc="268443459"/>
+<entry endPc="268447184" name="xtbl" stackId="92" startPc="268443459"/>
+<entry endPc="268447184" name="xur" stackId="86" startPc="268443459"/>
+<entry endPc="268447184" name="wful" stackId="66" startPc="268443459"/>
+<entry endPc="268447184" name="yfbl" stackId="73" startPc="268443459"/>
+<entry endPc="268447184" name="hfbl" stackId="75" startPc="268443459"/>
+<entry endPc="268447184" name="xul" stackId="82" startPc="268443459"/>
+<entry endPc="268447184" name="ybr" stackId="95" startPc="268443459"/>
+<entry endPc="268447184" name="Garminfont3" stackId="81" startPc="268443459"/>
+<entry endPc="268447184" name="Garminfont2" stackId="80" startPc="268443459"/>
+<entry endPc="268447184" name="ytur" stackId="89" startPc="268443459"/>
+<entry endPc="268447184" name="wfbr" stackId="78" startPc="268443459"/>
+<entry endPc="268447184" name="ybl" stackId="91" startPc="268443459"/>
+<entry endPc="268447184" name="ytul" stackId="85" startPc="268443459"/>
+<entry endPc="268447184" name="xbr" stackId="94" startPc="268443459"/>
+<entry endPc="268447184" name="wfbl" stackId="74" startPc="268443459"/>
+<entry endPc="268447184" name="xbl" stackId="90" startPc="268443459"/>
+<entry endPc="268447184" name="AveragePower3sec" stackId="30" startPc="268436961"/>
+<entry endPc="268447184" name="LastLapEfficiencyFactor" stackId="29" startPc="268436961"/>
+<entry endPc="268447184" name="mPowerWarningupper" stackId="55" startPc="268436961"/>
+<entry endPc="268447184" name="AEIndex30" stackId="47" startPc="268436961"/>
+<entry endPc="268447184" name="LapHeartrate" stackId="19" startPc="268436961"/>
+<entry endPc="268447184" name="mColourBackGround" stackId="7" startPc="268436961"/>
+<entry endPc="268447184" name="AveragePower20sec" stackId="33" startPc="268436961"/>
+<entry endPc="268447184" name="mColourFont1" stackId="5" startPc="268436961"/>
+<entry endPc="268447184" name="AveragePace20sec" stackId="39" startPc="268436961"/>
+<entry endPc="268447184" name="AveragePace5sec" stackId="37" startPc="268436961"/>
+<entry endPc="268447184" name="deviceID2" stackId="9" startPc="268436961"/>
+<entry endPc="268447184" name="mTestPower" stackId="57" startPc="268436961"/>
+<entry endPc="268447184" name="deviceID1" stackId="8" startPc="268436961"/>
+<entry endPc="268447184" name="LastLapEfficiencyIndex" stackId="26" startPc="268436961"/>
+<entry endPc="268447184" name="mLapElapsedPower" stackId="11" startPc="268436961"/>
+<entry endPc="268447184" name="vibrateData" stackId="56" startPc="268436961"/>
+<entry endPc="268447184" name="mLapElapsedDistance" stackId="13" startPc="268436961"/>
+<entry endPc="268447184" name="LastLapPower" stackId="23" startPc="268436961"/>
+<entry endPc="268447184" name="mtest" stackId="10" startPc="268436961"/>
+<entry endPc="268447184" name="mfillurColour" stackId="59" startPc="268436961"/>
+<entry endPc="268447184" name="mfillulColour" stackId="58" startPc="268436961"/>
+<entry endPc="268447184" name="AveragePace3sec" stackId="36" startPc="268436961"/>
+<entry endPc="268447184" name="AEIndex20" stackId="46" startPc="268436961"/>
+<entry endPc="268447184" name="AveragePower10sec" stackId="32" startPc="268436961"/>
+<entry endPc="268447184" name="mZ1under" stackId="48" startPc="268436961"/>
+<entry endPc="268447184" name="currentPowertest" stackId="35" startPc="268436961"/>
+<entry endPc="268447184" name="AveragePace10sec" stackId="38" startPc="268436961"/>
+<entry endPc="268447184" name="mZ3under" stackId="50" startPc="268436961"/>
+<entry endPc="268447184" name="AEIndex5" stackId="44" startPc="268436961"/>
+<entry endPc="268447184" name="AEIndex3" stackId="43" startPc="268436961"/>
+<entry endPc="268447184" name="mColourFont" stackId="4" startPc="268436961"/>
+<entry endPc="268447184" name="mZ5under" stackId="52" startPc="268436961"/>
+<entry endPc="268447184" name="mTimerTime" stackId="14" startPc="268436961"/>
+<entry endPc="268447184" name="mLapElapsedHeartrate" stackId="12" startPc="268436961"/>
+<entry endPc="268447184" name="AEIndex0" stackId="42" startPc="268436961"/>
+<entry endPc="268447184" name="mfillColour" stackId="62" startPc="268436961"/>
+<entry endPc="268447184" name="mLastLapSpeed" stackId="17" startPc="268436961"/>
+<entry endPc="268447184" name="mColour" stackId="3" startPc="268436961"/>
+<entry endPc="268447184" name="mCurrentPowerZone" stackId="63" startPc="268436961"/>
+<entry endPc="268447184" name="mPowerWarningunder" stackId="54" startPc="268436961"/>
+<entry endPc="268447184" name="LastLapHeartrate" stackId="20" startPc="268436961"/>
+<entry endPc="268447184" name="currentPacetest" stackId="41" startPc="268436961"/>
+<entry endPc="268447184" name="AEIndex10" stackId="45" startPc="268436961"/>
+<entry endPc="268447184" name="LapPower" stackId="22" startPc="268436961"/>
+<entry endPc="268447184" name="LapEfficiencyFactor" stackId="28" startPc="268436961"/>
+<entry endPc="268447184" name="LapEfficiencyIndex" stackId="25" startPc="268436961"/>
+<entry endPc="268447184" name="AveragePower" stackId="21" startPc="268436961"/>
+<entry endPc="268447184" name="mColourLine" stackId="6" startPc="268436961"/>
+<entry endPc="268447184" name="AverageEfficiencyIndex" stackId="24" startPc="268436961"/>
+<entry endPc="268447184" name="AveragePower5sec" stackId="31" startPc="268436961"/>
+<entry endPc="268447184" name="mLapTimerTime" stackId="15" startPc="268436961"/>
+<entry endPc="268447184" name="mfillblColour" stackId="60" startPc="268436961"/>
+<entry endPc="268447184" name="AveragePower30sec" stackId="34" startPc="268436961"/>
+<entry endPc="268447184" name="mfillbrColour" stackId="61" startPc="268436961"/>
+<entry endPc="268447184" name="AveragePace30sec" stackId="40" startPc="268436961"/>
+<entry endPc="268447184" name="info" stackId="2" startPc="268436961"/>
+<entry endPc="268447184" name="AverageEfficiencyFactor" stackId="27" startPc="268436961"/>
+<entry endPc="268447184" name="mZ5upper" stackId="53" startPc="268436961"/>
+<entry endPc="268447184" name="mZ2under" stackId="49" startPc="268436961"/>
+<entry endPc="268447184" name="mZ4under" stackId="51" startPc="268436961"/>
+<entry endPc="268447184" name="AverageHeartrate" stackId="18" startPc="268436961"/>
+<entry endPc="268447184" name="mLapSpeed" stackId="16" startPc="268436961"/>
+<entry endPc="268447185" name="dc" stackId="1" startPc="268436957"/>
+<entry endPc="268447263" name="s" stackId="2" startPc="268447189"/>
+<entry endPc="268447264" name="secs" stackId="1" startPc="268447185"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="PowerdashboardforStrydplusApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="PowerdashboardforStrydplusApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="DatarunView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="compute" parent="DatarunView">
+<param id="info"/>
+<documentation><![CDATA[<div class="description"> Calculations we need to do every second even when the data field is not visible<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerLap" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Store last lap quantities and set lap markers<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerStart" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Timer transitions from stopped to running state<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerStop" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Timer transitions from running to stopped state<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerResume" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Timer transitions from paused to running state (i.e. resume from Auto Pause is triggered)<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerPause" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Timer transitions from running to paused state (i.e. Auto Pause is triggered)<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="startStopPushed" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Start/stop button was pushed - emulated via timer start/stop<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onTimerReset" parent="DatarunView">
+<documentation><![CDATA[<div class="description"> Current activity is ended<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="DatarunView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Do necessary calculations and draw fields.<br/> This will be called once a second when the data field is visible.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="fmtPace" parent="DatarunView">
+<param id="secs"/>
+<documentation/>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="158" parentId="globals" symbolId="DatarunView" type="class"/>
+<dataEntry offset="1173" parentId="globals" symbolId="PowerdashboardforStrydplusApp" type="class"/>
+<dataEntry offset="1228" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="1307" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="1346" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="1377" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1432" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1463" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1494" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+</debugInfo>
