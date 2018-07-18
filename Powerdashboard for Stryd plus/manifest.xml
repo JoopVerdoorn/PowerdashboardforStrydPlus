@@ -10,6 +10,9 @@
             <iq:product id="fr935"/>
             <iq:product id="fr920xt"/>
             <iq:product id="fenixchronos"/>
+            <iq:product id="fenix5plus"/>
+            <iq:product id="fenix5splus"/>
+            <iq:product id="fenix5xplus"/>
         </iq:products>
         <iq:permissions/>
         <iq:languages>
