@@ -211,20 +211,13 @@ class DatarunView extends Toybox.WatchUi.DataField {
 
     //! Store last lap quantities and set lap markers
     function onTimerLap() {
-        var info = Activity.getActivityInfo();
-
-        mLastLapTimerTime        = mPowerTime - mLastLapTimeMarker;
-        mLastLapElapsedPower  = (info.currentPower != null) ? mElapsedPower - mLastLapPowerMarker : 0;
-        mLastLapElapsedHeartrate = (info.currentHeartRate != null) ? mEH - mLLHRM : 0;
-        mLastLapElapsedDistance  = (info.elapsedDistance != null) ? info.elapsedDistance - mLastLapDistMarker : 0;
-
-
-        mLaps++;
-        mLastLapDistMarker           = (info.elapsedDistance != 0) ? info.elapsedDistance : 0;
-        mLastLapPowerMarker           = mElapsedPower;
-        mLastLapTimeMarker            = mPowerTime;
-        mLLHRM       = mEH;       
+    	Lapaction ();
     }
+
+	//! Store last lap quantities and set lap markers after a step within a structured workout
+	function onWorkoutStepComplete() {
+		Lapaction ();
+	}
     
     //! Timer transitions from stopped to running state
     function onTimerStart() {
@@ -982,5 +975,18 @@ class DatarunView extends Toybox.WatchUi.DataField {
     function fmtPace(secs) {
         var s = (unitP/secs).toLong();
         return (s / 60).format("%0d") + ":" + (s % 60).format("%02d");
+    }
+    
+	function Lapaction () {    
+        var info = Activity.getActivityInfo();
+        mLastLapTimerTime        = mPowerTime - mLastLapTimeMarker;
+        mLastLapElapsedPower  = (info.currentPower != null) ? mElapsedPower - mLastLapPowerMarker : 0;
+        mLastLapElapsedHeartrate = (info.currentHeartRate != null) ? mEH - mLLHRM : 0;
+        mLastLapElapsedDistance  = (info.elapsedDistance != null) ? info.elapsedDistance - mLastLapDistMarker : 0;
+        mLaps++;
+        mLastLapDistMarker           = (info.elapsedDistance != 0) ? info.elapsedDistance : 0;
+        mLastLapPowerMarker           = mElapsedPower;
+        mLastLapTimeMarker            = mPowerTime;
+        mLLHRM       = mEH;       
     }	
 }

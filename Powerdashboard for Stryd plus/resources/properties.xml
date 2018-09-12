@@ -56,7 +56,7 @@
     <string id="lPace">Pace (not possible for FR920xt and Fenix 3(HR))</string>
     <string id="lPace3sec">Pace averaged over 3 seconds (not possible for FR920xt and Fenix 3(HR))</string>    
     <string id="lHR">Heartrate (not possible for FR920xt and Fenix 3(HR))</string>
-    <string id="lBlackBackground">Use black background instead of white (not possible for FR920xt and Fenix 3(HR)</string>
+    <string id="lBlackBackground">Use black background instead of white (not possible for FR935, Fenix 5 (s/x) (plus), FR920xt and Fenix 3(HR)</string>
     <string id="lBacklight">Force backlight on, regardless of device settings</string>
     <string id="lShowDemo">Show demo view for ID's and check license</string>
     <string id="MyNumberTitle">Enter license key</string>

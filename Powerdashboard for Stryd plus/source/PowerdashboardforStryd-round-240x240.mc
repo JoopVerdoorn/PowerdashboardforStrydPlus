@@ -211,20 +211,13 @@ class DatarunView extends Toybox.WatchUi.DataField {
 
     //! Store last lap quantities and set lap markers
     function onTimerLap() {
-        var info = Activity.getActivityInfo();
-
-        mLastLapTimerTime        = mPowerTime - mLastLapTimeMarker;
-        mLastLapElapsedPower  = (info.currentPower != null) ? mElapsedPower - mLastLapPowerMarker : 0;
-        mLastLapElapsedHeartrate = (info.currentHeartRate != null) ? mEH - mLLHRM : 0;
-        mLastLapElapsedDistance  = (info.elapsedDistance != null) ? info.elapsedDistance - mLastLapDistMarker : 0;
-
-
-        mLaps++;
-        mLastLapDistMarker           = (info.elapsedDistance != 0) ? info.elapsedDistance : 0;
-        mLastLapPowerMarker           = mElapsedPower;
-        mLastLapTimeMarker            = mPowerTime;
-        mLLHRM       = mEH;       
+    	Lapaction ();
     }
+
+	//! Store last lap quantities and set lap markers after a step within a structured workout
+	function onWorkoutStepComplete() {
+		Lapaction ();
+	}
     
     //! Timer transitions from stopped to running state
     function onTimerStart() {
@@ -287,21 +280,15 @@ class DatarunView extends Toybox.WatchUi.DataField {
         var mColourLine;
         var mColourBackGround;
 
-		if (uBlackBackground == true ){
-			mColourFont = Graphics.COLOR_WHITE;
-			mColourFont1 = Graphics.COLOR_WHITE;
-			mColourLine = Graphics.COLOR_YELLOW;
-			mColourBackGround = Graphics.COLOR_BLACK;
-		} else {
-			mColourFont = Graphics.COLOR_BLACK;
-			mColourFont1 = Graphics.COLOR_BLACK;
-			mColourLine = Graphics.COLOR_RED;
-			mColourBackGround = Graphics.COLOR_WHITE;
-		}
+		mColourFont = Graphics.COLOR_BLACK;
+		mColourFont1 = Graphics.COLOR_BLACK;
+		mColourLine = Graphics.COLOR_RED;
+		mColourBackGround = Graphics.COLOR_WHITE;
 		
 		//! Set background color
         dc.setColor(mColourBackGround, Graphics.COLOR_TRANSPARENT);
         dc.fillRectangle (0, 0, 218, 218);
+
         	
     	//! Check license
 		if (is24Hour == false) {
@@ -983,5 +970,18 @@ class DatarunView extends Toybox.WatchUi.DataField {
     function fmtPace(secs) {
         var s = (unitP/secs).toLong();
         return (s / 60).format("%0d") + ":" + (s % 60).format("%02d");
-    }	
+    }
+    
+	function Lapaction () {    
+        var info = Activity.getActivityInfo();
+        mLastLapTimerTime        = mPowerTime - mLastLapTimeMarker;
+        mLastLapElapsedPower  = (info.currentPower != null) ? mElapsedPower - mLastLapPowerMarker : 0;
+        mLastLapElapsedHeartrate = (info.currentHeartRate != null) ? mEH - mLLHRM : 0;
+        mLastLapElapsedDistance  = (info.elapsedDistance != null) ? info.elapsedDistance - mLastLapDistMarker : 0;
+        mLaps++;
+        mLastLapDistMarker           = (info.elapsedDistance != 0) ? info.elapsedDistance : 0;
+        mLastLapPowerMarker           = mElapsedPower;
+        mLastLapTimeMarker            = mPowerTime;
+        mLLHRM       = mEH;       
+    }
 }
