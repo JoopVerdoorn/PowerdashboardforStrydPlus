@@ -25,7 +25,7 @@
     <!-- Beta name:
     <string id="AppName">Powerdashboard for Stryd plus</string>
     -->
-    <string id="AppVersion">1.0</string>
+    <string id="AppVersion">1.81</string>
 	<string id="lAEFactor">Average efficiency factor (average speed in meters per minute,  divided by average heartrate in beats/minute)</string>
 	<string id="lAEIndex">Average efficiency index (average speed in meters per minute, divided by average Stryd power in watts)</string>
 	<string id="lLEFactor">Current lap efficiency factor (current lap speed in meters per minute,  divided by current lap heartrate in beats/minute)</string>
